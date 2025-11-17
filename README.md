@@ -1,5 +1,5 @@
-[![Build Status](https://travis-ci.org/rickycodes/pve-no-subscription.svg?branch=main)](https://travis-ci.org/rickycodes/pve-no-subscription) ![Shellcheck Status](https://img.shields.io/badge/shellcheck-passing-brightgreen)
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frickycodes%2Fpve-no-subscription.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frickycodes%2Fpve-no-subscription?ref=badge_shield)
+[![Build Status](https://travis-ci.org/transeuphrates/pve-no-subscription.svg?branch=main)](https://travis-ci.org/rickycodes/pve-no-subscription) ![Shellcheck Status](https://img.shields.io/badge/shellcheck-passing-brightgreen)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftranseuphrates%2Fpve-no-subscription.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frickycodes%2Fpve-no-subscription?ref=badge_shield)
 
 # Proxmox VE No-Subscription Removal
 
@@ -30,7 +30,7 @@ bash no-subscription-warning.sh
 
 ##### 3. Download
 
-Or, you can download the source directly from one of [the releases](https://github.com/rickycodes/pve-no-subscription/releases/tag/v1.0):
+Or, you can download the source directly from one of [the releases](https://github.com/transeuphrates/pve-no-subscription/releases/tag/v1.0):
 ```
 wget https://github.com/rickycodes/pve-no-subscription/releases/download/v1.0/source.tar.gz
 tar -xf source.tar.gz
@@ -145,4 +145,4 @@ This is very likely to break in the future. But as of this writing it works for 
 
 MIT License. See the [LICENSE](LICENSE) file for details.
 
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frickycodes%2Fpve-no-subscription.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frickycodes%2Fpve-no-subscription?ref=badge_large)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftranseuphratess%2Fpve-no-subscription.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftranseuphrates%2Fpve-no-subscription?ref=badge_large)
